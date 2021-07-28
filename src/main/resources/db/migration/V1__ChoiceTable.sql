@@ -1,3 +1,0 @@
-CREATE TABLE choice (
-    id INT NOT NULL PRIMARY KEY
-);
